@@ -1,0 +1,26 @@
+# Data (too large / private)
+data_cs156/
+artifacts/
+.ipynb_checkpoints/
+
+# Exports and zips
+export_csvs/
+export_csvs_v2/
+export_csvs_v3/
+*.zip
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Professor's example (not ours)
+Location Based Assignment*.pdf
+
+# Copies and drafts
+*copy*
+pipeline_final.html
+report.md
